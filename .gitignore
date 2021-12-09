@@ -7,3 +7,5 @@
 *.gz
 *.zip
 *.tar
+ch12/dataset/
+ch14/models/
